@@ -1,5 +1,3 @@
-# Airlines-wise-Number-of-Scheduled-Flights-Cancelled
-
 # ✈️ Airlines-wise Flight Cancellation Analysis (2017–2023)
 
 This project analyzes the **number of scheduled flights cancelled by airlines in India** from 2017 to 2023 using official DGCA data.
