@@ -35,7 +35,7 @@ To explore trends and patterns in flight cancellations across major Indian airli
 
 - Apply **machine learning models** to forecast future cancellations  
 - Include **external factors** (weather, strikes, policy changes)  
-- Develop an **interactive dashboard** using Plotly or Power BI
+- Develop an **interactive dashboard** using Plotly or Power BI.
 
 ## Repository Structure
 
